@@ -5,7 +5,7 @@ My repositories here are tutorials (with Python code) for pre-processing Japanes
 * [Aozora Corpus Builder](https://github.com/mollydesjardin/aozora) for [Aozora Bunko](https://www.aozora.gr.jp/) HTML files
 * [Taiyō Corpus Tools](https://github.com/mollydesjardin/taiyo-corpus-tools) for NINJAL's early-1900s [Taiyō magazine XML corpus](https://ccd.ninjal.ac.jp/cmj/taiyou/index.html)
 
-The writeups are much longer than the code itself! I created them as a resource for getting started with the niche technical issues involved, just to get your data in compatible shape for most tools that aren't Japanese-specific. (Not-Unicode and no word boundaries are the main challenges.)
+The writeups are much longer than the code itself! I created them as a resource for getting started with the niche technical issues you'll often encounter with trying to use Japanese data sources. (Not-Unicode and no word boundaries are the main challenges.)
 
 I no longer work in this area, so I'm sharing these as-is. _Please_ freely reuse, fork, adapt, and/or steal for your own purposes -- that's why it's here!
 
